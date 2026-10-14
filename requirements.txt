@@ -1,0 +1,9 @@
+# Libraries used in this project
+# Install them all with:  pip install -r requirements.txt
+
+pandas          # reading and working with tables of data
+numpy           # numbers and maths
+matplotlib      # base plotting library
+seaborn         # nicer statistical charts
+openpyxl        # lets pandas read .xlsx (Excel) files
+jupyter         # to open and run the notebook
